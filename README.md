@@ -16,4 +16,4 @@
 <p>Ele é o sorteador de numeros,que pode ser usado inclusive em impresas,rifas e etc...</p>
  <br>
  <br>
- <img alt='image' src="">
+ <img alt='image' src="https://github.com/mikesilva32/Sorteio-JS/blob/main/assets/mocap.png?raw=true">
